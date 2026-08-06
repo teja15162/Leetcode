@@ -74,7 +74,6 @@ Explanation: This an empty graph, it does not have any nodes.
 
 **Constraints:**
 
-(small check)
 - The number of nodes in the graph is in the range `[0, 100]`.
 - `1 <= Node.val <= 100`
 - `Node.val` is unique for each node.
