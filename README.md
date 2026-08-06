@@ -31,8 +31,7 @@ Automatically maintained by PushCode.
 
 | Language | Solutions |
 |----------|----------:|
-| C++ | 5 |
-| val | 2 |
+| C++ | 7 |
 
 ---
 
