@@ -4,16 +4,20 @@ public:
         int st = 0;
         int end = height.size()-1;
         int ar = 0;
+
         while(st<=end) {
             int ht = min(height[st],height[end]);
             int wd = end - st;
+
             ar = max(ar,ht*wd);
+
             if(height[st] < height[end]) {
                 st++;
             } else {
                 end--;
             }
         }
+
         return ar;
     }
 };
