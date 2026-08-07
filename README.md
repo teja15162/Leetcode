@@ -8,9 +8,9 @@ Automatically maintained by PushCode.
 
 | Metric | Count |
 |--------|------:|
-| Total Problems | 7 |
+| Total Problems | 8 |
 | Easy | 4 |
-| Medium | 3 |
+| Medium | 4 |
 | Hard | 0 |
 
 ---
@@ -19,6 +19,7 @@ Automatically maintained by PushCode.
 
 | Topic | Problems |
 |-------|---------:|
+| [Arrays](./arrays) | 1 |
 | [Graph](./graph) | 1 |
 | [Hash Table](./hash-table) | 1 |
 | [Heap](./heap) | 1 |
@@ -31,7 +32,7 @@ Automatically maintained by PushCode.
 
 | Language | Solutions |
 |----------|----------:|
-| C++ | 7 |
+| C++ | 8 |
 
 ---
 
