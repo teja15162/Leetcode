@@ -54,7 +54,7 @@ Output: 1
 
 ## Approach
 
-qwertyuiop; asdfghjkl xcvbn
+> No approach provided.
 
 ---
 
@@ -62,7 +62,7 @@ qwertyuiop; asdfghjkl xcvbn
 
 | Metric | Value |
 |---------|-------|
-| Time | O(N) |
+| Time | — |
 | Space | — |
 
 ---
