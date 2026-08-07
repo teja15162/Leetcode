@@ -54,7 +54,7 @@ Output: 1
 
 ## Approach
 
-Testing
+qwertyuiop; asdfghjkl xcvbn
 
 ---
 
@@ -62,8 +62,8 @@ Testing
 
 | Metric | Value |
 |---------|-------|
-| Time | TODO |
-| Space | TODO |
+| Time | O(N) |
+| Space | — |
 
 ---
 
