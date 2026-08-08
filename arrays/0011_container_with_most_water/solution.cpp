@@ -6,7 +6,7 @@ public:
         int ar = 0;
 
         while(st<=end) {
-            int ht = min(height[st],height[end]);
+            int ht = min(height[st],height[end]);   // red6d5cdd6d rtd tdtrd trdtrdestdr fydrt y drd tfrd5uftfr
             int wd = end - st;
 
             ar = max(ar,ht*wd);
