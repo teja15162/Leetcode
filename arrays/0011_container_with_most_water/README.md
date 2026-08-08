@@ -54,7 +54,7 @@ Output: 1
 
 ## Approach
 
-test
+changed
 
 ---
 
@@ -63,7 +63,7 @@ test
 | Metric | Value |
 |---------|-------|
 | Time | O(N) |
-| Space | O(N) |
+| Space | O(1) |
 
 ---
 
