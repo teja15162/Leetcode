@@ -54,7 +54,7 @@ Output: 1
 
 ## Approach
 
-> No approach provided.
+updated
 
 ---
 
