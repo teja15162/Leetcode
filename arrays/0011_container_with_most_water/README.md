@@ -54,7 +54,7 @@ Output: 1
 
 ## Approach
 
-changed
+> No approach provided.
 
 ---
 
@@ -62,8 +62,8 @@ changed
 
 | Metric | Value |
 |---------|-------|
-| Time | O(N) |
-| Space | O(1) |
+| Time | — |
+| Space | — |
 
 ---
 
