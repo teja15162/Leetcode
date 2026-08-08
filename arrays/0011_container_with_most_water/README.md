@@ -62,8 +62,8 @@ Output: 1
 
 | Metric | Value |
 |---------|-------|
-| Time | — |
-| Space | — |
+| Time | O(N) |
+| Space | O(N) |
 
 ---
 
